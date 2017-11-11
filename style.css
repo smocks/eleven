@@ -1,0 +1,31 @@
+@font-face {
+    font-family: font;
+    src: url(SummitBold-Display.ttf);
+}
+
+body {
+  background: url("http://www.edmsauce.com/wp-content/uploads/2015/01/Ark-Patrol.jpg");
+  background-size: cover;
+  font-family: font;
+}
+
+
+.child-main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.header {
+  font-size: 100px;
+}
+
+.social {
+  width: 500px;
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: none;
+}
