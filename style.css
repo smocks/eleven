@@ -4,7 +4,8 @@
 }
 
 body {
-  background: url("http://www.edmsauce.com/wp-content/uploads/2015/01/Ark-Patrol.jpg");
+/*   background: url("http://www.edmsauce.com/wp-content/uploads/2015/01/Ark-Patrol.jpg"); */
+  background: black;
   background-size: cover;
   font-family: font;
 }
